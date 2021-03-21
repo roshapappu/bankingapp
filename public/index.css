@@ -1,0 +1,35 @@
+body {
+    
+}
+button
+{
+	background-color:white;
+	border:0px;
+
+}
+#header
+{
+
+    color:violet;
+    text-align:center;
+}
+#hc
+{
+    display:none;
+}
+#hmenu
+{
+    border:0px;
+    background-color:white;
+    color:violet;
+    text-align:left;
+    position:absolute;
+    left:10px;
+}
+#lbut
+{
+	background-color:white;
+	color:violet;
+	border:0px;
+}
+
