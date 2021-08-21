@@ -10,6 +10,7 @@ app.use(express.json());
 app.use(express.urlencoded());
 app.use(BodyParser.json());                                app.use(BodyParser.urlencoded({ extended: true }));
 
+
 url="mongodb+srv://AJITH:ajay-ALTI-8@cluster0.9nz68.mongodb.net/?retryWrites=true&w=majority";
 app
   .use(express.static(path.join(__dirname, 'public')))
