@@ -411,5 +411,5 @@ function dlt()
 function about()
 {
 
-	alert("Designed and developed by AJITH KUMAR G");
+	alert("Designed and developed by Roshan Kumar M");
 }
